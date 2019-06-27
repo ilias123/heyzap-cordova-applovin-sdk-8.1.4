@@ -9,7 +9,7 @@ SDK Verisons
 
 Installing:
 ```
-cordova plugin add https://github.com/Heyzap/heyzap-cordova-applovin-sdk-8.1.4.git
+cordova plugin add https://github.com/ilias123/heyzap-cordova-applovin-sdk-8.1.4.git
 ```
 
 Supported Platforms
