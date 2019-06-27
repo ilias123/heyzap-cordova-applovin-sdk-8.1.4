@@ -1,0 +1,74 @@
+{
+  "_from": "heyzap-cordova-applovin@^2.1.0",
+  "_id": "heyzap-cordova-applovin@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zIUB2v9SlbkJGvdAOqd65B8bMwotJT9QSa5ZNyzrGNkHQ2I9BxI7OhtaiCAknaW+qMlQFp683B9Wbsa+xZIDvg==",
+  "_location": "/heyzap-cordova-applovin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "heyzap-cordova-applovin@^2.1.0",
+    "name": "heyzap-cordova-applovin",
+    "escapedName": "heyzap-cordova-applovin",
+    "rawSpec": "^2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/heyzap-cordova-applovin/-/heyzap-cordova-applovin-2.1.0.tgz",
+  "_shasum": "6d10d7fd8fa9d7c88c436c52ee2e679b9b7e4287",
+  "_spec": "heyzap-cordova-applovin@^2.1.0",
+  "_where": "C:\\PUZZLEAPP",
+  "author": {
+    "name": "Heyzap Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/Heyzap/heyzap-cordova-applovin/issues",
+    "email": "support@heyzap.com"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "heyzap-cordova-applovin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "AppLovin Cordova plugin for the Heyzap Cordova Plugin",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=3.8.0"
+    }
+  ],
+  "homepage": "https://developers.heyzap.com/docs/cordova_sdk_setup_and_requirements#step-2-choose-your-3rdparty-sdks-optional",
+  "keywords": [
+    "cordova",
+    "heyzap",
+    "phonegap",
+    "sdk",
+    "ad",
+    "mobile",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "mediation",
+    "applovin"
+  ],
+  "license": "MIT",
+  "name": "heyzap-cordova-applovin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heyzap/heyzap-cordova-applovin.git"
+  },
+  "version": "2.1.0"
+}
