@@ -5,17 +5,15 @@ This is a custom Apache Cordova plugin for AppLovin to be used with the [Heyzap 
 
 SDK Verisons
 ------------
-- iOS: 4.4.1
-- Android: 7.3.2
+- Android: 8.1.4
 
 Installing:
 ```
-cordova plugin add https://github.com/Heyzap/heyzap-cordova-applovin.git
+cordova plugin add https://github.com/Heyzap/heyzap-cordova-applovin-sdk-8.1.4.git
 ```
 
 Supported Platforms
 -------------------
-- iOS (cordova-ios engine 3.8.0 and later)
 - Android (cordova-android engine 4.0.0 and later)
 
 Documentation
